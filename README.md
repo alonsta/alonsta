@@ -1,4 +1,4 @@
-# Hi there, I'm alone(e) ;)
+# Hi there, I'm alon(e) ;)
 
 Welcome to my super duper unique and interesting GitHub profile!  
 I'm 17yo, a 12th grader. currently trying not to give up /s 
