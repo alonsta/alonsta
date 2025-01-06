@@ -9,6 +9,7 @@ I'm 17yo, a 12th grader. currently trying not to give up /s
 - **What I Work On**:  
   - random things that catch my eye on the internet.
   - things my teacher told me to do.
+  - discord bots sometimes.
   - overcomplicating simple concepts to fill the void.
 
 ### 🌱 Currently Learning
