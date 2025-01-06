@@ -30,6 +30,7 @@ I'm 17yo, a 12th grader. currently trying not to give up /s
 
 Thanks for stopping by for my yapp! Feel free to check out my projects and (not) roast me😊. pretty please.
 
+you can find me at **my room**
 
 <!---
 alonsta/alonsta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
