@@ -5,7 +5,8 @@ I'm 17yo, a 12th grader. currently trying not to give up /s
 
 ### 💻 About Me
 - **Programming Languages I Know**:  
-  Python, C#, Java, JavaScript, Assembly x86, and some C.  
+  Python, C#, Java, JavaScript, Assembly x86, and some C'ish languages.
+  
 - **What I Work On**:  
   - random things that catch my eye on the internet.
   - things my teacher told me to do.
@@ -13,10 +14,9 @@ I'm 17yo, a 12th grader. currently trying not to give up /s
   - overcomplicating simple concepts to fill the void.
 
 ### 🌱 Currently Learning
-- discrete math and java in uni.
-- 5 points math and physics 12th grade materials(israel).
+- Calculus and Algorithms + Data Structures in uni.
 - how to make readable code(i could never).
-- some more things ig....
+- some more things....
 
 ### 📌 Goals
 - have as much fun as possible while contributing to society.
